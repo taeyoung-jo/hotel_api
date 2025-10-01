@@ -11,6 +11,7 @@ public class HotelService {
     public List<Hotel> getAllHotels() {
         return hotelRepository.getAllHotels();
     }
+    // 도시별 호텔리스트 가져오기
     public List<Hotel> getHotelsByCity(String city) {
         List<Hotel> hotels = hotelRepository.getAllHotels();
         List<Hotel> result = new ArrayList<>();

@@ -10,10 +10,9 @@ public class Hotel {
     private String image;
     private String price;       // "₩123,456" 형태
     private double rating;
-    private List<Review> reviews;
 
     // 생성자
-    public Hotel(int id, String name, String city, String country, String image, String price, double rating, List<Review> reviews) {
+    public Hotel(int id, String name, String city, String country, String image, String price, double rating, int roomNum, String roomType) {
         this.id = id;
         this.name = name;
         this.city = city;
@@ -21,7 +20,6 @@ public class Hotel {
         this.image = image;
         this.price = price;
         this.rating = rating;
-        this.reviews = reviews;
     }
 
     // 기본 생성자
@@ -49,29 +47,4 @@ public class Hotel {
     public double getRating() { return rating; }
     public void setRating(double rating) { this.rating = rating; }
 
-    public List<Review> getReviews() { return reviews; }
-    public void setReviews(List<Review> reviews) { this.reviews = reviews; }
-
-    // 내부 Review 클래스
-    public static class Review {
-        private String user;
-        private String comment;
-        private int score;
-
-        public Review() {}
-        public Review(String user, String comment, int score) {
-            this.user = user;
-            this.comment = comment;
-            this.score = score;
-        }
-
-        public String getUser() { return user; }
-        public void setUser(String user) { this.user = user; }
-
-        public String getComment() { return comment; }
-        public void setComment(String comment) { this.comment = comment; }
-
-        public int getScore() { return score; }
-        public void setScore(int score) { this.score = score; }
-    }
 }

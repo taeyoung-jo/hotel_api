@@ -2,43 +2,16 @@ const axios = require("axios");
 const fs = require("fs");
 
 // 랜덤 데이터 생성 함수
-function getRandomPrice(min = 30000, max = 500000) {
-    return `₩${Math.floor(Math.random() * (max - min + 1) + min).toLocaleString()}`;
+//랜덤 가격
+function getRandomPrice(min = 30000, max = 800000) {
+    const price = Math.floor(Math.random() * ((max - min) / 100 + 1) + min / 100) * 100;
+    return `${price.toLocaleString()}`;
 }
-
+//랜덤 평점
 function getRandomRating() {
-    return (Math.random() * 5).toFixed(1);
-}
-
-const sampleReviews = [
-    "위치가 아주 좋아요!",
-    "조식이 만족스러웠습니다.",
-    "객실 청결도가 최고예요.",
-    "직원 친절하지만, 방이 조금 좁아요.",
-    "다시 머물고 싶어요!"
-];
-
-const surnames = ["김","이","박","최","정","강","조","윤","장","임"];
-const givenNames = ["민수","지현","서준","하은","도윤","수아","현우","예린","준호","세영"];
-
-function getRandomUser() {
-    const surname = surnames[Math.floor(Math.random() * surnames.length)];
-    const givenName = givenNames[Math.floor(Math.random() * givenNames.length)];
-    return surname + givenName;
-}
-
-function getRandomReviews() {
-    const reviews = [];
-    const count = Math.floor(Math.random() * 3) + 1; // 1~3개
-    for (let i = 0; i < count; i++) {
-        const comment = sampleReviews[Math.floor(Math.random() * sampleReviews.length)];
-        reviews.push({
-            user: getRandomUser(),
-            comment,
-            score: Math.floor(Math.random() * 5) + 1
-        });
-    }
-    return reviews;
+    const min = 1;
+    const max = 5;
+    return (Math.random() * (max - min) + min).toFixed(1);
 }
 
 // 도시 리스트
@@ -66,9 +39,8 @@ async function fetchHotels() {
                     engine: "google_hotels",
                     q: `${city.name} hotels`,
                     location: `${city.name}, ${city.country}`,
-                    check_in_date: "2025-12-24",
-                    check_out_date: "2025-12-30",
-                    num: 5
+                    check_in_date: "2025-10-10",   // YYYY-MM-DD
+                    check_out_date: "2025-10-12"
                 }
             });
 
@@ -79,8 +51,7 @@ async function fetchHotels() {
                 country: city.country,
                 image: hotel.images ? hotel.images[0].image_url : "N/A",
                 price: getRandomPrice(),           // 한국어 랜덤 가격
-                rating: getRandomRating(),         // 랜덤 평점
-                reviews: getRandomReviews()        // 한국어 랜덤 리뷰
+                rating: getRandomRating()  // 랜덤 평점
             }));
 
             allHotels.push(...hotels);
@@ -94,3 +65,4 @@ async function fetchHotels() {
 }
 
 fetchHotels();
+

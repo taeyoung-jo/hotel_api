@@ -21,5 +21,6 @@ public class HotelTest {
             System.out.println("평점: " + h.getRating());
             System.out.println("----------------------------");
         }
+        
     }
 }
