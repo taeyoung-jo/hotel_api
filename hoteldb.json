@@ -1,0 +1,4024 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Apa Hotel & Resort Roppongi-Eki-Higashi Station East",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩455,535",
+      "rating": "2.7",
+      "reviews": [
+        {
+          "user": "이세영",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "임하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "장지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hamacho Hotel",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩74,754",
+      "rating": "4.2",
+      "reviews": [
+        {
+          "user": "최민수",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        },
+        {
+          "user": "윤하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        },
+        {
+          "user": "이수아",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Shinjuku Granbell Hotel",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩309,466",
+      "rating": "4.9",
+      "reviews": [
+        {
+          "user": "장지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        },
+        {
+          "user": "강지현",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        },
+        {
+          "user": "정수아",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The Royal Park Hotel Tokyo Shiodome",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩300,605",
+      "rating": "0.0",
+      "reviews": [
+        {
+          "user": "김민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "최준호",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "TOKYO-W-inn Asakusa",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩483,290",
+      "rating": "1.7",
+      "reviews": [
+        {
+          "user": "정세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "정예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "김준호",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mitsui Garden Hotel Toyosu Premier",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩457,660",
+      "rating": "1.6",
+      "reviews": [
+        {
+          "user": "정민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        },
+        {
+          "user": "윤현우",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tokyo Bay Shiomi Prince Hotel",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩59,635",
+      "rating": "1.7",
+      "reviews": [
+        {
+          "user": "조준호",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "ONE@Tokyo",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩63,548",
+      "rating": "2.8",
+      "reviews": [
+        {
+          "user": "강하은",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "HOTEL THE CELESTINE TOKYO SHIBA",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩429,672",
+      "rating": "0.2",
+      "reviews": [
+        {
+          "user": "윤서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "All Day Place Shibuya",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩186,011",
+      "rating": "2.6",
+      "reviews": [
+        {
+          "user": "임하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "이세영",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Shiba Park Hotel",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩208,134",
+      "rating": "2.8",
+      "reviews": [
+        {
+          "user": "이도윤",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        },
+        {
+          "user": "이도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "이지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Nohga Hotel Akihabara Tokyo",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩47,394",
+      "rating": "2.5",
+      "reviews": [
+        {
+          "user": "조민수",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        },
+        {
+          "user": "조지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Rembrandt Hotel Tokyo Machida",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩64,650",
+      "rating": "1.6",
+      "reviews": [
+        {
+          "user": "강도윤",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        },
+        {
+          "user": "강현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "최민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "APA Hotel Asakusa Kuramae Ekimae",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩472,063",
+      "rating": "3.4",
+      "reviews": [
+        {
+          "user": "윤하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "김하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Manga Art Hotel",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩350,670",
+      "rating": "1.1",
+      "reviews": [
+        {
+          "user": "임예린",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "정현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        },
+        {
+          "user": "윤도윤",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "APA Hotel Asakusa Tawaramachi-Ekimae",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩336,274",
+      "rating": "0.4",
+      "reviews": [
+        {
+          "user": "박세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "윤세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Shinagawa Prince Hotel",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩264,623",
+      "rating": "2.7",
+      "reviews": [
+        {
+          "user": "임하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "The Blossom Hibiya",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩459,754",
+      "rating": "1.0",
+      "reviews": [
+        {
+          "user": "강현우",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        },
+        {
+          "user": "김서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        },
+        {
+          "user": "장도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "NYOZE House (Nyoze Gakusyo)",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩418,993",
+      "rating": "0.5",
+      "reviews": [
+        {
+          "user": "장도윤",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Mountaintop retreat in Chichibu: just a short hop west of Tokyo",
+      "city": "Tokyo",
+      "country": "JP",
+      "price": "₩79,605",
+      "rating": "4.4",
+      "reviews": [
+        {
+          "user": "장세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "정세영",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "The Royal Park Hotel Iconic Osaka-Midosuji",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩460,174",
+      "rating": "2.2",
+      "reviews": [
+        {
+          "user": "장서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "City Plaza Osaka Hotel",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩237,333",
+      "rating": "0.8",
+      "reviews": [
+        {
+          "user": "임현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "HOTEL RESOL TRINITY OSAKA",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩158,642",
+      "rating": "4.1",
+      "reviews": [
+        {
+          "user": "장도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "ART HOTEL Osaka Bay Tower",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩312,209",
+      "rating": "4.0",
+      "reviews": [
+        {
+          "user": "김하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Hotel Wan Osaka ebisu",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩182,437",
+      "rating": "4.3",
+      "reviews": [
+        {
+          "user": "조세영",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "조서준",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Hotel Hankyu RESPIRE OSAKA",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩164,357",
+      "rating": "0.9",
+      "reviews": [
+        {
+          "user": "최서준",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        },
+        {
+          "user": "장민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "최서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "APA Hotel Namba Shinsaibashi East",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩83,943",
+      "rating": "3.6",
+      "reviews": [
+        {
+          "user": "장준호",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        },
+        {
+          "user": "박수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Travelodge Honmachi Osaka [トラベロッジ本町大阪]",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩198,861",
+      "rating": "3.4",
+      "reviews": [
+        {
+          "user": "김현우",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "GRANBELL HOTEL OSAKA",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩205,052",
+      "rating": "4.3",
+      "reviews": [
+        {
+          "user": "강서준",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "강세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        },
+        {
+          "user": "정수아",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Swissôtel Nankai Osaka",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩74,588",
+      "rating": "4.9",
+      "reviews": [
+        {
+          "user": "정지현",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Hotel Noum Osaka",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩467,799",
+      "rating": "2.8",
+      "reviews": [
+        {
+          "user": "박민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "강예린",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "HIYORI HOTEL OSAKA NAMBA STATION",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩352,527",
+      "rating": "4.1",
+      "reviews": [
+        {
+          "user": "정도윤",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "정세영",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Namba Guesthouse HIVE",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩436,649",
+      "rating": "2.1",
+      "reviews": [
+        {
+          "user": "임민수",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        },
+        {
+          "user": "장세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "APA Hotel & Resort Midosuji Hommachi-Eki Tower",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩180,596",
+      "rating": "3.0",
+      "reviews": [
+        {
+          "user": "장하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Hotel Granvia Osaka",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩458,864",
+      "rating": "2.5",
+      "reviews": [
+        {
+          "user": "박서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Mitsui Garden Hotel Osaka Premier",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩151,160",
+      "rating": "1.4",
+      "reviews": [
+        {
+          "user": "조하은",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Hotel Forza Osaka Namba Dotonbori",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩442,430",
+      "rating": "0.2",
+      "reviews": [
+        {
+          "user": "임지현",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "RIHGA Place Higobashi",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩452,826",
+      "rating": "3.9",
+      "reviews": [
+        {
+          "user": "임도윤",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        },
+        {
+          "user": "강지현",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "김하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Tsubaki椿",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩361,244",
+      "rating": "0.8",
+      "reviews": [
+        {
+          "user": "임세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "이도윤",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "정도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Fortune House*難波日本橋天王寺直結 *3名までの一戸建て*",
+      "city": "Osaka",
+      "country": "JP",
+      "price": "₩84,734",
+      "rating": "0.7",
+      "reviews": [
+        {
+          "user": "강수아",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "REF Okinawa Arena by Vessel Hotels",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩133,877",
+      "rating": "1.1",
+      "reviews": [
+        {
+          "user": "강민수",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Okinawa City Hotel",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩242,409",
+      "rating": "3.5",
+      "reviews": [
+        {
+          "user": "정하은",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        },
+        {
+          "user": "최준호",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Villa Blu Okinawa Chatan",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩417,360",
+      "rating": "2.4",
+      "reviews": [
+        {
+          "user": "최현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Okinawa Grand Mer Resort",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩463,847",
+      "rating": "1.2",
+      "reviews": [
+        {
+          "user": "이지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "장현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "ANA Crowne Plaza Resort Okinawa Uruma Hills by IHG",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩375,309",
+      "rating": "1.3",
+      "reviews": [
+        {
+          "user": "장예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        },
+        {
+          "user": "윤민수",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        },
+        {
+          "user": "김도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Hotel Palm Tree Hill",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩45,083",
+      "rating": "1.7",
+      "reviews": [
+        {
+          "user": "최서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Hiyagun Lanai Resort",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩98,799",
+      "rating": "4.2",
+      "reviews": [
+        {
+          "user": "강수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        },
+        {
+          "user": "이하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Hotel Koza",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩146,481",
+      "rating": "3.9",
+      "reviews": [
+        {
+          "user": "조예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "정도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Crown Hotel Okinawa.",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩150,378",
+      "rating": "2.1",
+      "reviews": [
+        {
+          "user": "장수아",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "김하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "New open! Goya Resort Glamping&Sky Deck  Max 9 ppl",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩38,801",
+      "rating": "0.3",
+      "reviews": [
+        {
+          "user": "강지현",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        },
+        {
+          "user": "정세영",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        },
+        {
+          "user": "최현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Villa Awase 111",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩349,149",
+      "rating": "1.6",
+      "reviews": [
+        {
+          "user": "조예린",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        },
+        {
+          "user": "박현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        },
+        {
+          "user": "조예린",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "ZOE RESORT THE Sunset Village OKINAWA CHATAN",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩478,735",
+      "rating": "3.5",
+      "reviews": [
+        {
+          "user": "이서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Sunrise Hotel",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩426,507",
+      "rating": "2.2",
+      "reviews": [
+        {
+          "user": "장민수",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Rycom Crystal Hotel",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩207,815",
+      "rating": "0.1",
+      "reviews": [
+        {
+          "user": "윤지현",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "임예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "400年続く沖縄の伝統工芸品を味わう。伝統の技が光る格別なひとときを~やちむんハウス~",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩297,165",
+      "rating": "4.4",
+      "reviews": [
+        {
+          "user": "조예린",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "장예린",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        },
+        {
+          "user": "윤서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Machiya Koza",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩209,595",
+      "rating": "2.9",
+      "reviews": [
+        {
+          "user": "이도윤",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        },
+        {
+          "user": "김세영",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "이하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "D-and Stay HH.Y Resort Okinawa",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩85,507",
+      "rating": "4.2",
+      "reviews": [
+        {
+          "user": "이예린",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "ホテルグランアリーナ",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩158,523",
+      "rating": "3.2",
+      "reviews": [
+        {
+          "user": "김수아",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        },
+        {
+          "user": "임지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        },
+        {
+          "user": "이서준",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Music Hotel KOZA by Coldio Premium",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩317,417",
+      "rating": "3.0",
+      "reviews": [
+        {
+          "user": "이하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "정서준",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Crown Hotel Annex",
+      "city": "Okinawa",
+      "country": "JP",
+      "price": "₩129,830",
+      "rating": "2.1",
+      "reviews": [
+        {
+          "user": "임민수",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        },
+        {
+          "user": "이수아",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Four Seasons Hotel Seoul",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩248,744",
+      "rating": "3.0",
+      "reviews": [
+        {
+          "user": "윤도윤",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "이서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        },
+        {
+          "user": "최준호",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "LOTTE HOTEL SEOUL",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩208,125",
+      "rating": "4.3",
+      "reviews": [
+        {
+          "user": "김하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "임예린",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "장도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "The Westin Josun Seoul",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩248,971",
+      "rating": "4.6",
+      "reviews": [
+        {
+          "user": "장지현",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        },
+        {
+          "user": "김준호",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        },
+        {
+          "user": "이민수",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Orakai Insadong Suites",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩231,755",
+      "rating": "3.0",
+      "reviews": [
+        {
+          "user": "정하은",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        },
+        {
+          "user": "최서준",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        },
+        {
+          "user": "조세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Namsan terrace",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩298,232",
+      "rating": "2.3",
+      "reviews": [
+        {
+          "user": "강현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Namsan Hilltop House (completely remodeled clean house)",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩206,757",
+      "rating": "0.6",
+      "reviews": [
+        {
+          "user": "강도윤",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        },
+        {
+          "user": "윤하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        },
+        {
+          "user": "이준호",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Nine Tree by Parnas Seoul Dongdaemun",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩264,773",
+      "rating": "1.1",
+      "reviews": [
+        {
+          "user": "김수아",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "조세영",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Hotel Venue G Myeong-Dong",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩58,476",
+      "rating": "1.0",
+      "reviews": [
+        {
+          "user": "조현우",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "김예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "임지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Le Méridien Seoul, Myeongdong",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩241,673",
+      "rating": "4.8",
+      "reviews": [
+        {
+          "user": "박하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "정수아",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        },
+        {
+          "user": "이예린",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Soosong Guesthouse",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩131,198",
+      "rating": "3.9",
+      "reviews": [
+        {
+          "user": "조수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Aiden by Best Western Cheongdam",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩133,476",
+      "rating": "0.5",
+      "reviews": [
+        {
+          "user": "장예린",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        },
+        {
+          "user": "임예린",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "윤도윤",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "ibis Styles Ambassador Seoul Myeongdong",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩163,206",
+      "rating": "4.4",
+      "reviews": [
+        {
+          "user": "최하은",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "HOTEL DM, Dongdaemun",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩452,948",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "최세영",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Banyan Tree Club & Spa Seoul",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩292,814",
+      "rating": "1.2",
+      "reviews": [
+        {
+          "user": "윤도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        },
+        {
+          "user": "조수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        },
+        {
+          "user": "최도윤",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Seoul City Hotel",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩307,799",
+      "rating": "3.3",
+      "reviews": [
+        {
+          "user": "장도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        },
+        {
+          "user": "조예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "이민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Muro House/Chungmuro Station/Namsan Tower/Myeongdong/Dongdaemun limited stop/full option",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩310,074",
+      "rating": "1.2",
+      "reviews": [
+        {
+          "user": "윤세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Hotel Riviera",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩35,253",
+      "rating": "3.7",
+      "reviews": [
+        {
+          "user": "윤세영",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "장민수",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "THE SHILLA Seoul",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩420,673",
+      "rating": "3.8",
+      "reviews": [
+        {
+          "user": "최수아",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Hotel Manu Seoul",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩70,883",
+      "rating": "1.7",
+      "reviews": [
+        {
+          "user": "최지현",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "박지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "조준호",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Four Points by Sheraton Josun, Seoul Station",
+      "city": "Seoul",
+      "country": "KR",
+      "price": "₩211,510",
+      "rating": "0.0",
+      "reviews": [
+        {
+          "user": "정예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "윤현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "The Empire Hotel",
+      "city": "New York",
+      "country": "US",
+      "price": "₩80,746",
+      "rating": "1.8",
+      "reviews": [
+        {
+          "user": "최수아",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "김민수",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge",
+      "city": "New York",
+      "country": "US",
+      "price": "₩37,463",
+      "rating": "3.3",
+      "reviews": [
+        {
+          "user": "장민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Canal Loft Hotel",
+      "city": "New York",
+      "country": "US",
+      "price": "₩297,706",
+      "rating": "1.0",
+      "reviews": [
+        {
+          "user": "최세영",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "이하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Coda Williamsburg",
+      "city": "New York",
+      "country": "US",
+      "price": "₩45,132",
+      "rating": "0.9",
+      "reviews": [
+        {
+          "user": "조도윤",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Courtyard by Marriott New York Queens/Fresh Meadows",
+      "city": "New York",
+      "country": "US",
+      "price": "₩236,795",
+      "rating": "1.4",
+      "reviews": [
+        {
+          "user": "윤하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Hotel Executive Suites",
+      "city": "New York",
+      "country": "US",
+      "price": "₩388,954",
+      "rating": "1.7",
+      "reviews": [
+        {
+          "user": "임지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "김준호",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "임지현",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Hotel 57",
+      "city": "New York",
+      "country": "US",
+      "price": "₩89,678",
+      "rating": "1.2",
+      "reviews": [
+        {
+          "user": "정예린",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "강현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        },
+        {
+          "user": "박예린",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Hilton Garden Inn New York/Staten Island",
+      "city": "New York",
+      "country": "US",
+      "price": "₩202,131",
+      "rating": "4.4",
+      "reviews": [
+        {
+          "user": "강지현",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        },
+        {
+          "user": "정하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Fairfield by Marriott Inn & Suites Newark Liberty International Airport",
+      "city": "New York",
+      "country": "US",
+      "price": "₩170,314",
+      "rating": "4.8",
+      "reviews": [
+        {
+          "user": "강서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "DoubleTree by Hilton Hotel Newark Airport",
+      "city": "New York",
+      "country": "US",
+      "price": "₩158,028",
+      "rating": "2.5",
+      "reviews": [
+        {
+          "user": "강하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Grandview Hotel New York",
+      "city": "New York",
+      "country": "US",
+      "price": "₩302,909",
+      "rating": "2.0",
+      "reviews": [
+        {
+          "user": "강현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        },
+        {
+          "user": "강하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "The Washington Hotel NYC",
+      "city": "New York",
+      "country": "US",
+      "price": "₩496,196",
+      "rating": "0.2",
+      "reviews": [
+        {
+          "user": "박서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        },
+        {
+          "user": "조수아",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Manhattan Bowery Lodge",
+      "city": "New York",
+      "country": "US",
+      "price": "₩95,195",
+      "rating": "4.6",
+      "reviews": [
+        {
+          "user": "최민수",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        },
+        {
+          "user": "임준호",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "임준호",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Hotel 1080",
+      "city": "New York",
+      "country": "US",
+      "price": "₩109,495",
+      "rating": "1.5",
+      "reviews": [
+        {
+          "user": "정세영",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        },
+        {
+          "user": "강서준",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        },
+        {
+          "user": "이지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "31 Street Broadway Hotel",
+      "city": "New York",
+      "country": "US",
+      "price": "₩384,274",
+      "rating": "1.2",
+      "reviews": [
+        {
+          "user": "박지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "이서준",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Holiday Inn Express Long Island City E - New York by IHG",
+      "city": "New York",
+      "country": "US",
+      "price": "₩469,837",
+      "rating": "1.6",
+      "reviews": [
+        {
+          "user": "임민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "SoHo 54 Hotel",
+      "city": "New York",
+      "country": "US",
+      "price": "₩404,685",
+      "rating": "0.8",
+      "reviews": [
+        {
+          "user": "박민수",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        },
+        {
+          "user": "김준호",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Walker Hotel Greenwich Village",
+      "city": "New York",
+      "country": "US",
+      "price": "₩229,022",
+      "rating": "1.8",
+      "reviews": [
+        {
+          "user": "김세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "The Andrew Hotel",
+      "city": "New York",
+      "country": "US",
+      "price": "₩419,845",
+      "rating": "4.2",
+      "reviews": [
+        {
+          "user": "최예린",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        },
+        {
+          "user": "윤현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Best Room To Visit NYC-Subway Access",
+      "city": "New York",
+      "country": "US",
+      "price": "₩126,265",
+      "rating": "2.8",
+      "reviews": [
+        {
+          "user": "최준호",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "윤도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        },
+        {
+          "user": "김서준",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Hotel Des Deux-Iles",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩175,537",
+      "rating": "4.3",
+      "reviews": [
+        {
+          "user": "장하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Hôtel Elysa",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩285,937",
+      "rating": "2.5",
+      "reviews": [
+        {
+          "user": "조민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        },
+        {
+          "user": "최세영",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        },
+        {
+          "user": "김예린",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "JO&JOE Paris Gentilly",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩157,972",
+      "rating": "0.2",
+      "reviews": [
+        {
+          "user": "박준호",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "이서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Staycity Aparthotels Paris La Defense",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩55,046",
+      "rating": "3.1",
+      "reviews": [
+        {
+          "user": "최서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "강민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Le Bon Hôtel",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩250,008",
+      "rating": "1.2",
+      "reviews": [
+        {
+          "user": "강서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        },
+        {
+          "user": "임도윤",
+          "comment": "위치가 아주 좋아요!",
+          "score": 5
+        },
+        {
+          "user": "장하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "The People",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩284,077",
+      "rating": "3.7",
+      "reviews": [
+        {
+          "user": "정서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "이지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Citadines Saint-Germain-des-Prés Paris (Apart hotel Paris)",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩340,680",
+      "rating": "1.8",
+      "reviews": [
+        {
+          "user": "최지현",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Hôtel Bourgogne & Montana",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩129,052",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "임민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "김도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        },
+        {
+          "user": "박현우",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Best Western Hôtel Ronceray-Opéra",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩38,428",
+      "rating": "3.8",
+      "reviews": [
+        {
+          "user": "이서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "최지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Eklo Hotel Paris Porte de Versailles",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩254,567",
+      "rating": "0.8",
+      "reviews": [
+        {
+          "user": "임서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "La Maison Favart",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩454,643",
+      "rating": "1.4",
+      "reviews": [
+        {
+          "user": "장세영",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "장세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "임도윤",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Résidhome Quai d'Ivry",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩469,090",
+      "rating": "3.6",
+      "reviews": [
+        {
+          "user": "정세영",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        },
+        {
+          "user": "이현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        },
+        {
+          "user": "윤지현",
+          "comment": "위치가 아주 좋아요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Aparthotel Adagio Paris Montrouge",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩98,785",
+      "rating": "0.2",
+      "reviews": [
+        {
+          "user": "정세영",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Hôtel Des Ducs D'Anjou",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩131,093",
+      "rating": "3.5",
+      "reviews": [
+        {
+          "user": "장수아",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Hôtel Georgette",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩125,879",
+      "rating": "5.0",
+      "reviews": [
+        {
+          "user": "이하은",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "최현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "최도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Best Western Hôtel Rives de Paris La Défense",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩57,307",
+      "rating": "2.1",
+      "reviews": [
+        {
+          "user": "이서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Welcome Hotel Paris Saint Germain des Prés",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩482,019",
+      "rating": "1.0",
+      "reviews": [
+        {
+          "user": "윤서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "ibis budget Courbevoie Paris La Défense 1",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩451,271",
+      "rating": "2.9",
+      "reviews": [
+        {
+          "user": "이예린",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Hôtel Le Faubourg OPERA",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩449,930",
+      "rating": "2.1",
+      "reviews": [
+        {
+          "user": "윤지현",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Hôtel Exe Paris Centre",
+      "city": "Paris",
+      "country": "FR",
+      "price": "₩494,017",
+      "rating": "3.5",
+      "reviews": [
+        {
+          "user": "윤현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        },
+        {
+          "user": "장예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "The Tower Hotel, by Thistle",
+      "city": "London",
+      "country": "GB",
+      "price": "₩489,447",
+      "rating": "4.6",
+      "reviews": [
+        {
+          "user": "최예린",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        },
+        {
+          "user": "김준호",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        },
+        {
+          "user": "박도윤",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Zedwell Piccadilly Circus",
+      "city": "London",
+      "country": "GB",
+      "price": "₩264,558",
+      "rating": "4.8",
+      "reviews": [
+        {
+          "user": "윤서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "김현우",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Park Plaza London Westminster Bridge",
+      "city": "London",
+      "country": "GB",
+      "price": "₩143,639",
+      "rating": "4.0",
+      "reviews": [
+        {
+          "user": "박하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Travelodge London Central City Road",
+      "city": "London",
+      "country": "GB",
+      "price": "₩251,654",
+      "rating": "0.7",
+      "reviews": [
+        {
+          "user": "최도윤",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "박하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Premier Inn London Tolworth hotel",
+      "city": "London",
+      "country": "GB",
+      "price": "₩186,600",
+      "rating": "1.4",
+      "reviews": [
+        {
+          "user": "박서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "윤준호",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Kimpton Fitzroy London",
+      "city": "London",
+      "country": "GB",
+      "price": "₩232,215",
+      "rating": "3.6",
+      "reviews": [
+        {
+          "user": "이준호",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        },
+        {
+          "user": "이민수",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "이세영",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "The Goodenough Hotel London",
+      "city": "London",
+      "country": "GB",
+      "price": "₩496,930",
+      "rating": "1.5",
+      "reviews": [
+        {
+          "user": "정수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "The Royal Horseguards Hotel & One Whitehall Place, London",
+      "city": "London",
+      "country": "GB",
+      "price": "₩268,390",
+      "rating": "3.5",
+      "reviews": [
+        {
+          "user": "박준호",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "이민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Rosewood London",
+      "city": "London",
+      "country": "GB",
+      "price": "₩175,393",
+      "rating": "1.8",
+      "reviews": [
+        {
+          "user": "장현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Travelodge London Woolwich",
+      "city": "London",
+      "country": "GB",
+      "price": "₩398,840",
+      "rating": "3.0",
+      "reviews": [
+        {
+          "user": "김민수",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "박하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        },
+        {
+          "user": "김수아",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Premier Inn London Wembley Stadium hotel",
+      "city": "London",
+      "country": "GB",
+      "price": "₩107,618",
+      "rating": "3.5",
+      "reviews": [
+        {
+          "user": "임현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        },
+        {
+          "user": "강예린",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "name": "The Rose & Crown, London Bridge (PUBLOVE)",
+      "city": "London",
+      "country": "GB",
+      "price": "₩259,613",
+      "rating": "0.5",
+      "reviews": [
+        {
+          "user": "장도윤",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "The Waldorf Hilton, London",
+      "city": "London",
+      "country": "GB",
+      "price": "₩159,702",
+      "rating": "3.4",
+      "reviews": [
+        {
+          "user": "조준호",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Mimi's Hotel Soho",
+      "city": "London",
+      "country": "GB",
+      "price": "₩182,828",
+      "rating": "4.3",
+      "reviews": [
+        {
+          "user": "임현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        },
+        {
+          "user": "임세영",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "The Standard, London",
+      "city": "London",
+      "country": "GB",
+      "price": "₩268,445",
+      "rating": "1.2",
+      "reviews": [
+        {
+          "user": "최세영",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "박예린",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "장현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Premier Inn London Wimbledon (Broadway) hotel",
+      "city": "London",
+      "country": "GB",
+      "price": "₩249,904",
+      "rating": "2.8",
+      "reviews": [
+        {
+          "user": "김서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "The Bailey’s Hotel London",
+      "city": "London",
+      "country": "GB",
+      "price": "₩187,651",
+      "rating": "0.2",
+      "reviews": [
+        {
+          "user": "조지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        },
+        {
+          "user": "조세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "name": "London Hilton on Park Lane",
+      "city": "London",
+      "country": "GB",
+      "price": "₩109,200",
+      "rating": "3.6",
+      "reviews": [
+        {
+          "user": "윤현우",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "김현우",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Staycity Aparthotels, London, Greenwich High Road",
+      "city": "London",
+      "country": "GB",
+      "price": "₩410,790",
+      "rating": "2.6",
+      "reviews": [
+        {
+          "user": "윤현우",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "강세영",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        },
+        {
+          "user": "정하은",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Sterling Suites Ealing",
+      "city": "London",
+      "country": "GB",
+      "price": "₩80,395",
+      "rating": "5.0",
+      "reviews": [
+        {
+          "user": "정현우",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "박민수",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Hotel NH Berlin Potsdamer Platz",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩458,145",
+      "rating": "0.4",
+      "reviews": [
+        {
+          "user": "이수아",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        },
+        {
+          "user": "조수아",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Lux Eleven Berlin-Mitte",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩485,667",
+      "rating": "3.2",
+      "reviews": [
+        {
+          "user": "최민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        },
+        {
+          "user": "윤지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        },
+        {
+          "user": "윤하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "fjord hotel berlin by little BIG hotels",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩57,107",
+      "rating": "3.8",
+      "reviews": [
+        {
+          "user": "정현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Park Inn by Radisson Berlin Alexanderplatz",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩193,171",
+      "rating": "2.8",
+      "reviews": [
+        {
+          "user": "강하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Scandic Berlin Potsdamer Platz",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩229,831",
+      "rating": "0.5",
+      "reviews": [
+        {
+          "user": "박서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        },
+        {
+          "user": "김민수",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Lux 11 Berlin-Mitte",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩240,215",
+      "rating": "2.6",
+      "reviews": [
+        {
+          "user": "정서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "최수아",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Locke at East Side Gallery, Friedrichshain",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩444,401",
+      "rating": "1.7",
+      "reviews": [
+        {
+          "user": "최지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "윤예린",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "이수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Novotel Berlin Mitte",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩393,344",
+      "rating": "1.6",
+      "reviews": [
+        {
+          "user": "최현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        },
+        {
+          "user": "박수아",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        },
+        {
+          "user": "강지현",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "25hours Hotel Bikini Berlin",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩157,449",
+      "rating": "1.0",
+      "reviews": [
+        {
+          "user": "박서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "최지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "임도윤",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Berlin Marriott Hotel",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩258,702",
+      "rating": "2.2",
+      "reviews": [
+        {
+          "user": "박서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        },
+        {
+          "user": "장준호",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "임도윤",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "name": "AC Hotel Berlin Humboldthain Park",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩330,970",
+      "rating": "4.9",
+      "reviews": [
+        {
+          "user": "이도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        },
+        {
+          "user": "최하은",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Flottwell Berlin Hotel & Residenz am Park",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩216,226",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "이세영",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        },
+        {
+          "user": "최서준",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "name": "IntercityHotel Berlin Airport Area North",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩30,324",
+      "rating": "2.8",
+      "reviews": [
+        {
+          "user": "윤세영",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "name": "SORAT Hotel Berlin",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩260,713",
+      "rating": "3.3",
+      "reviews": [
+        {
+          "user": "박현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "윤서준",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        },
+        {
+          "user": "강민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Premier Inn Berlin City Wilmersdorf Hotel",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩274,342",
+      "rating": "1.5",
+      "reviews": [
+        {
+          "user": "정세영",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        },
+        {
+          "user": "박지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        },
+        {
+          "user": "장수아",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Bob W Mitte",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩408,260",
+      "rating": "1.1",
+      "reviews": [
+        {
+          "user": "장세영",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "최예린",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "강하은",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Titanic Gendarmenmarkt Berlin",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩125,444",
+      "rating": "3.6",
+      "reviews": [
+        {
+          "user": "조도윤",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "이민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Hotel NH Collection Berlin Mitte Friedrichstrasse",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩186,408",
+      "rating": "1.9",
+      "reviews": [
+        {
+          "user": "김하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        },
+        {
+          "user": "장예린",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Hotel NH Collection Berlin Mitte am Checkpoint Charlie",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩98,953",
+      "rating": "1.6",
+      "reviews": [
+        {
+          "user": "장현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        },
+        {
+          "user": "장서준",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        },
+        {
+          "user": "정지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Holiday Inn - the Niu, Flash Berlin Charlottenburg by IHG",
+      "city": "Berlin",
+      "country": "DE",
+      "price": "₩446,953",
+      "rating": "0.9",
+      "reviews": [
+        {
+          "user": "최민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        },
+        {
+          "user": "장예린",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Old Bakery Guest house",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩294,948",
+      "rating": "2.7",
+      "reviews": [
+        {
+          "user": "임서준",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Trevi Collection Hotel",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩40,229",
+      "rating": "3.3",
+      "reviews": [
+        {
+          "user": "최지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        },
+        {
+          "user": "임도윤",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "River Palace Hotel",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩417,984",
+      "rating": "1.3",
+      "reviews": [
+        {
+          "user": "김지현",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Dimora Trevi Suites",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩496,629",
+      "rating": "4.4",
+      "reviews": [
+        {
+          "user": "김도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        },
+        {
+          "user": "장지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Hotel Smeraldo",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩484,043",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "김세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "박현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Rome Times Hotel",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩497,374",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "임현우",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Trevi Palace Luxury Inn",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩140,289",
+      "rating": "2.0",
+      "reviews": [
+        {
+          "user": "장예린",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        },
+        {
+          "user": "장서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Hotel Piazza di Spagna",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩322,172",
+      "rating": "3.3",
+      "reviews": [
+        {
+          "user": "조하은",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        },
+        {
+          "user": "박예린",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        },
+        {
+          "user": "조예린",
+          "comment": "위치가 아주 좋아요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Hotel Trevi Palace",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩72,481",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "박도윤",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        },
+        {
+          "user": "박하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        },
+        {
+          "user": "임세영",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Hotel Quirinale",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩274,614",
+      "rating": "3.2",
+      "reviews": [
+        {
+          "user": "김민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        },
+        {
+          "user": "강세영",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Hotel Pace Helvezia",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩341,651",
+      "rating": "0.5",
+      "reviews": [
+        {
+          "user": "최현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "최도윤",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        },
+        {
+          "user": "조하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Hotel Valadier",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩442,659",
+      "rating": "2.5",
+      "reviews": [
+        {
+          "user": "윤하은",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "윤현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Romoli Hotel",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩110,976",
+      "rating": "3.0",
+      "reviews": [
+        {
+          "user": "정민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "조서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 2
+        },
+        {
+          "user": "최지현",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Hosianum Palace",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩443,893",
+      "rating": "1.8",
+      "reviews": [
+        {
+          "user": "박수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        },
+        {
+          "user": "윤세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 4
+        },
+        {
+          "user": "박하은",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Argentina Style Hotel",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩337,007",
+      "rating": "3.9",
+      "reviews": [
+        {
+          "user": "정지현",
+          "comment": "다시 머물고 싶어요!",
+          "score": 3
+        },
+        {
+          "user": "강지현",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        },
+        {
+          "user": "이지현",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Concept Terrace Hotel",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩420,409",
+      "rating": "0.6",
+      "reviews": [
+        {
+          "user": "이서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "윤민수",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        },
+        {
+          "user": "정민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Hotel NH Collection Roma Palazzo Cinquecento",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩188,701",
+      "rating": "2.4",
+      "reviews": [
+        {
+          "user": "강준호",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "조준호",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        },
+        {
+          "user": "정예린",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Spanish Steps Amazing Apartment",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩383,577",
+      "rating": "1.8",
+      "reviews": [
+        {
+          "user": "정준호",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "name": "Hotel Nord Nuova",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩212,869",
+      "rating": "2.4",
+      "reviews": [
+        {
+          "user": "이준호",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Hotel Artemide",
+      "city": "Rome",
+      "country": "IT",
+      "price": "₩88,621",
+      "rating": "4.1",
+      "reviews": [
+        {
+          "user": "이예린",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Hotel Soho Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩37,641",
+      "rating": "0.5",
+      "reviews": [
+        {
+          "user": "장지현",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "정도윤",
+          "comment": "위치가 아주 좋아요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Hotel SB Glow",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩214,986",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "임준호",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "임하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        },
+        {
+          "user": "정민수",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Occidental Atenea Mar",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩370,428",
+      "rating": "5.0",
+      "reviews": [
+        {
+          "user": "강현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "김준호",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Hotel 1898",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩315,138",
+      "rating": "0.0",
+      "reviews": [
+        {
+          "user": "최현우",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Nobu Hotel Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩412,145",
+      "rating": "4.7",
+      "reviews": [
+        {
+          "user": "강서준",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Ikonik Lex",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩455,626",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "정세영",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Mandarin Oriental, Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩465,258",
+      "rating": "2.3",
+      "reviews": [
+        {
+          "user": "장하은",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "장예린",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "이민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Andante",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩192,074",
+      "rating": "2.1",
+      "reviews": [
+        {
+          "user": "김현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        },
+        {
+          "user": "김서준",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        },
+        {
+          "user": "임민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩365,244",
+      "rating": "4.4",
+      "reviews": [
+        {
+          "user": "이도윤",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        },
+        {
+          "user": "장현우",
+          "comment": "다시 머물고 싶어요!",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Yurbban Ramblas Boutique Hotel",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩189,699",
+      "rating": "4.7",
+      "reviews": [
+        {
+          "user": "장수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 1
+        },
+        {
+          "user": "윤현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 5
+        },
+        {
+          "user": "조수아",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Hotel España",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩361,115",
+      "rating": "4.5",
+      "reviews": [
+        {
+          "user": "박현우",
+          "comment": "위치가 아주 좋아요!",
+          "score": 5
+        },
+        {
+          "user": "강민수",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        },
+        {
+          "user": "장현우",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Hotel Best 4 Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩42,509",
+      "rating": "1.8",
+      "reviews": [
+        {
+          "user": "임도윤",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Bruc & Bruc",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩287,452",
+      "rating": "3.5",
+      "reviews": [
+        {
+          "user": "강서준",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 2
+        },
+        {
+          "user": "장서준",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        },
+        {
+          "user": "임세영",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Leonardo Royal Hotel Barcelona Forum",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩161,201",
+      "rating": "1.7",
+      "reviews": [
+        {
+          "user": "강수아",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        },
+        {
+          "user": "강민수",
+          "comment": "다시 머물고 싶어요!",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Hotel Colonial Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩252,847",
+      "rating": "1.6",
+      "reviews": [
+        {
+          "user": "이하은",
+          "comment": "다시 머물고 싶어요!",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Axel Hotel Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩400,434",
+      "rating": "3.8",
+      "reviews": [
+        {
+          "user": "조민수",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        },
+        {
+          "user": "임수아",
+          "comment": "위치가 아주 좋아요!",
+          "score": 5
+        },
+        {
+          "user": "정하은",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Seventy Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩371,413",
+      "rating": "0.7",
+      "reviews": [
+        {
+          "user": "조예린",
+          "comment": "조식이 만족스러웠습니다.",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Hotel Best Front Maritim Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩221,421",
+      "rating": "3.0",
+      "reviews": [
+        {
+          "user": "정도윤",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "ZOOROOMS Boutique Guesthouse",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩196,170",
+      "rating": "1.2",
+      "reviews": [
+        {
+          "user": "장도윤",
+          "comment": "위치가 아주 좋아요!",
+          "score": 1
+        },
+        {
+          "user": "정지현",
+          "comment": "객실 청결도가 최고예요.",
+          "score": 3
+        },
+        {
+          "user": "최세영",
+          "comment": "위치가 아주 좋아요!",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Gaudi(M) Barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "price": "₩404,199",
+      "rating": "3.1",
+      "reviews": [
+        {
+          "user": "강세영",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        },
+        {
+          "user": "박도윤",
+          "comment": "직원 친절하지만, 방이 조금 좁아요.",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
