@@ -10,7 +10,9 @@
     <link rel="stylesheet" href="./CSS/default.css">
 </head>
 <body>
-    <header id="header"></header>
+    <header id="header">
+
+    </header>
     <main id="container">
         <section></section>
         <section></section>

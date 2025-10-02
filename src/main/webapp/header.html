@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        /* ===== 헤더 ===== */
+        .header-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 40px;
+            background: #fff;
+            border-bottom: 1px solid #eee;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            font-size: 22px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .logo img {
+            width: 36px;
+            height: 36px;
+            margin-right: 8px;
+        }
+
+        .search-box {
+            display: flex;
+            align-items: center;
+            border: 2px solid #ffcc00;
+            border-radius: 30px;
+            padding: 5px 15px;
+            width: 350px;
+        }
+
+        .search-box input {
+            border: none;
+            outline: none;
+            flex: 1;
+            padding: 6px;
+            font-size: 14px;
+        }
+
+        .search-box button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            color: #555;
+        }
+
+        .user-menu {
+            font-size: 13px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            color: #555;
+        }
+
+        .user-menu a {
+            text-decoration: none;
+            color: #555;
+        }
+
+        .user-icon {
+            font-size: 20px;
+            margin-left: 10px;
+            cursor: pointer;
+        }
+
+        /* 네비게이션 */
+        .nav-bar {
+            display: flex;
+            justify-content: center;
+            background: #fff;
+            border-bottom: 1px solid #ddd;
+            padding: 10px 20px;
+            gap: 25px;
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .nav-bar a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        .nav-bar a:hover {
+            color: #ffcc00;
+        }
+
+    </style>
+</head>
+<body>
+<!-- ===== 헤더 ===== -->
+<div class="header-top">
+    <div class="logo">
+        <img src="https://img.icons8.com/?size=100&id=12902&format=png&color=000000" alt="로고">
+        노랑풍선
+    </div>
+    <div class="search-box">
+        <input type="text" placeholder="30만원대로 떠나는 가성비 보라카이!">
+        <button>🔍</button>
+    </div>
+    <div class="user-menu">
+        <a href="#">로그인</a> ·
+        <a href="#">회원가입</a> ·
+        <a href="#">예약확인/결제</a> ·
+        <a href="#">고객센터</a>
+        <span class="user-icon">👤</span>
+    </div>
+</div>
+
+<!-- 네비게이션 -->
+<div class="nav-bar">
+    <a href="#">해외패키지</a>
+    <a href="#">에어텔</a>
+    <a href="#">허니문</a>
+    <a href="#">크루즈</a>
+    <a href="#">골프</a>
+    <a href="#">테마/프리미엄</a>
+    <a href="#">국내여행</a>
+    <a href="#">항공</a>
+    <a href="#">호텔</a>
+    <a href="#">투어&티켓</a>
+    <a href="#">KTX/렌터카</a>
+    <a href="#">기업/단체</a>
+</div>
+
+</body>
+</html>
