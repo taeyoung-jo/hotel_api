@@ -12,12 +12,12 @@ public class HotelService {
         return hotelRepository.getAllHotels();
     }
     // 도시별 호텔리스트 가져오기
-    public List<Hotel> getHotelsByCity(String city) {
+    public List<Hotel> getHotelsByCity(int city) {
         List<Hotel> hotels = hotelRepository.getAllHotels();
         List<Hotel> result = new ArrayList<>();
 
         for (Hotel h : hotels) {
-            if (h.getCity().equalsIgnoreCase(city)) {
+            if (h.getCity() == city) {
                 result.add(h);
             }
         }

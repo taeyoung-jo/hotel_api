@@ -5,14 +5,14 @@ import java.util.List;
 public class Hotel {
     private int id;
     private String name;
-    private String city;
+    private int city;
     private String country;
     private String image;
     private String price;       // "₩123,456" 형태
     private double rating;
 
     // 생성자
-    public Hotel(int id, String name, String city, String country, String image, String price, double rating, int roomNum, String roomType) {
+    public Hotel(int id, String name, int city, String country, String image, String price, double rating, int roomNum, String roomType) {
         this.id = id;
         this.name = name;
         this.city = city;
@@ -32,8 +32,8 @@ public class Hotel {
     public String getName() { return name; }
     public void setName(String name) { this.name = name; }
 
-    public String getCity() { return city; }
-    public void setCity(String city) { this.city = city; }
+    public int getCity() { return city; }
+    public void setCity(int city) { this.city = city; }
 
     public String getCountry() { return country; }
     public void setCountry(String country) { this.country = country; }

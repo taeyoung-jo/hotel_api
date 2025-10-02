@@ -34,7 +34,9 @@ public class TestHotelServlet extends HttpServlet {
             for (int i = 0; i < hotels.length(); i++) {
                 JSONObject hotel = hotels.getJSONObject(i);
                 // city가 "Tokyo"인 것만 필터
-                if ("Tokyo".equalsIgnoreCase(hotel.getString("city").trim())) {
+                int tokyoId = 4;
+
+                if (hotel.getInt("city") == tokyoId) {
                     JSONObject obj = new JSONObject();
                     obj.put("name", hotel.getString("name"));
                     obj.put("rating", hotel.getString("rating"));

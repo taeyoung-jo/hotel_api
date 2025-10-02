@@ -10,10 +10,10 @@ public class HotelTest {
         HotelService hotelService = new HotelService();
 
         // 서울 호텔만 조회
-        List<Hotel> seoulHotels = hotelService.getHotelsByCity("Seoul");
+        List<Hotel> seoulHotels = hotelService.getHotelsByCity(4);
 
-        System.out.println("서울 호텔 개수: " + seoulHotels.size());
-        System.out.println("------ 서울 호텔 리스트 ------");
+        System.out.println("도쿄 호텔 개수: " + seoulHotels.size());
+        System.out.println("------ 도쿄 호텔 리스트 ------");
         for (Hotel h : seoulHotels) {
             System.out.println("호텔 이름: " + h.getName());
             System.out.println("도시: " + h.getCity());
